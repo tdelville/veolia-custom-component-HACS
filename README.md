@@ -96,19 +96,19 @@ Un grand merci à [@Pulpyyyy](https://github.com/Pulpyyyy), qui m'a beaucoup aid
 <!---->
 ***
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/kugan49/veolia-custom-component-HACS.svg?style=for-the-badge
-[commits]: https://github.com/kugan49/veolia-custom-component-HACS/commits/master
+[commits-shield]: https://img.shields.io/github/commit-activity/y/tdelville/veolia-custom-component-HACS.svg?style=for-the-badge
+[commits]: https://github.com/tdelville/veolia-custom-component-HACS/commits/master
 [hacs]: https://hacs.xyz
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [my_hacs_badge]: https://my.home-assistant.io/badges/hacs_repository.svg
-[my_ha_link]: https://my.home-assistant.io/redirect/hacs_repository/?owner=kugan49&repository=veolia-custom-component-HACS&category=integration
+[my_ha_link]: https://my.home-assistant.io/redirect/hacs_repository/?owner=tdelville&repository=veolia-custom-component-HACS&category=integration
 [logoimg]: images/logo.png
 [appareilimg]: images/appareil.png
 [daily_consumptionimg]: images/daily_consumption.png
 [monthly_consumptionimg]: images/monthly_consumption.png
 [apexchartsimg]: images/apexcharts-card_example.png
-[license-shield]: https://img.shields.io/github/license/kugan49/veolia-custom-component-HACS.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/tdelville/veolia-custom-component-HACS.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-%40kugan49-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/kugan49/veolia-custom-component-HACS.svg?style=for-the-badge
-[releases]: https://github.com/kugan49/veolia-custom-component-HACS/releases
-[user_profile]: https://github.com/kugan49
+[releases-shield]: https://img.shields.io/github/release/tdelville/veolia-custom-component-HACS.svg?style=for-the-badge
+[releases]: https://github.com/tdelville/veolia-custom-component-HACS/releases
+[user_profile]: https://github.com/tdelville
