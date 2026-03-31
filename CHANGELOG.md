@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.4.0
+
+### Changed
+- Supression de l'import de Config dans __init__.py poura ompatibilité avec HA 2026.3.4
+
 ## v1.3.1
 
 ### Changed
