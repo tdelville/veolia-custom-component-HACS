@@ -8,12 +8,13 @@
 [![Project Maintenance][maintenance-shield]][user_profile]
 
 
-> # Ce projet n'est plus maintenu !!!!
-> 
-> # Vous pouvez trouver une alternative ici :
-> # [https://github.com/Jezza34000/homeassistant_veolia](https://github.com/Jezza34000/homeassistant_veolia)
+J'ai créé un Fork depuis le projet https://github.com/kugan49/veolia-custom-component-HACS car il n'est plus maintenu et archivé ; mais merci à lui d'avoir fait tout le boulot!
+Le fait qu'il soit archivé semblait poser un problème lors de l'ajout du dépot personnalisé dans HACS.
+De plus l'ajout de l'intégration était impossible dans la version 2026.3.4 de HA ; c'est corrigé.
+Je ne promets pas de maintenir le projet, mais à minima de régler les micro-problèmes du genre, qui empêche de fonctionner dans une version récente de HA.
 
-
+Info importante / rappel : cette intégration ne fonctionne que si vous accéder à voter espace client via https://www.service.eau.veolia.fr/ (ancien site, amis qui est toujours en vigueur me concernant/dans ma commune).
+Si vous acccéder à l'espace client via https://www.eau.veolia.fr/, alors il faut utiliser plutôt cette intégration HACS : https://github.com/Jezza34000/homeassistant_veolia.
 
 
 ![logo][logoimg]
@@ -41,7 +42,7 @@ Recommandé car vous recevrez des notifications de mises à jour
 [![Ouvrez votre instance Home Assistant et ouvrez ce référentiel dans la boutique communautaire Home Assistant.][my_hacs_badge]][my_ha_link]
 
 Si le lien ci-dessus ne fonctionne pas, suivez ces étapes :
-*  Ajoutez ce référentiel https://github.com/kugan49/veolia-custom-component-HACS à HACS en tant que « Dépôts personnalisés » avec la catégorie « Intégration ».  Cette option se trouve dans le menu ⋮
+*  Ajoutez ce référentiel https://github.com/tdelville/veolia-custom-component-HACS/ à HACS en tant que « Dépôts personnalisés » avec la catégorie « Intégration ».  Cette option se trouve dans le menu ⋮
 * Installer l'intégration depuis HACS
 * Redémarrez Home Assistant
 
